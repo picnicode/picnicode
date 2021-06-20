@@ -1,16 +1,28 @@
-### Hi there 👋
+# Go 语言学习成功指南
 
-<!--
-**picnicode/picnicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 参考
+  - 📕 [官方网站](https://golang.org/)
+  - 📘 [Effective Go](https://golang.org/doc/effective_go.html): 官方 Best Practice 建议
+  - 📖 [官方语言规范说明](https://golang.org/ref/spec)
+  - 📖 [Go Wiki](https://github.com/golang/go/wiki): 官方维护的相关资源索引
+  - 📖 [Awesome Go](https://github.com/avelino/awesome-go): 民间维护的相关资源索引，方便你寻找具体的库或者工具
+- 图书
+  - 📖 [Go 语言圣经](https://books.studygolang.com/gopl-zh/): 即《The Go Programming Language》的中文版，[英文版官网](https://www.gopl.io/)
+  - 📕 [Introducing Go](http://shop.oreilly.com/product/0636920046516.do): 一下午便可读完，快速入门，涵盖主要语法要点
+  - 📗 [Go 语言 101](https://gfw.go101.org/article/101.html): 介绍 Go 语言的入门、细节和原理，[英文版官网](https://go101.org/article/101.html)
+  - 📗 [Go by Example](https://gobyexample.com/): 举例说明各种其他语言中的常规操作如何用 Go 语言实现
+  - 📘 [Go 语言核心 36 讲](https://time.geekbang.org/column/intro/112): 中文专栏系列文章，以常见问题就具体要点展开阐述
+- 课程
+  - 📕 [A Tour of Go](https://tour.golang.org): 官方简介课程
+  - 📗 [Go 语言从入门到实战](https://time.geekbang.org/course/intro/160): 中文课程，讲的比较细致，讲师敲代码速度比较缓慢
+  - 📗 [Google 资深工程师深度讲解 Go 语言](https://coding.imooc.com/class/180.html): 上海普通话讲授，要点演示全面，讲师常用 Python 和 Java 作为对比
+  - 📘 [Go: The Complete Bootcamp](https://www.udemy.com/learn-go-the-complete-bootcamp-course-golang/learn/): Udemy 广受好评的入门课程，讲解详细而有趣，节奏较慢
+  - 📘 [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang?aid=true): 三门 Coursera 课程，缓慢而详细
+  - 📘 [Exercism](https://exercism.io/tracks/go): 以用 Go 实现具体任务的方式督导学习，从易到难，有真人导师点评结果
+- 博客
+  - 📖 [官方博客](https://blog.golang.org/): 宣布计划和介绍新特性、内部原理的博客
+  - 📖 [Go go-to guide](https://yourbasic.org/golang/)
+  - 📗 [Learn Go Programming](https://blog.learngoprogramming.com/)
+  - 📗 [Golang Code - A Library of Go Snippets](https://golangcode.com/)
+  - 📘 [Dave Cheney's Practical Go](https://dave.cheney.net/practical-go)
+  - 📘 [divan's blog](https://divan.dev/)
